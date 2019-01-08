@@ -1,0 +1,6 @@
+test-prop:
+  string: 字符串
+  integer: 18
+  date: 2018/8/8
+  list: [q,w,e,r]
+  map: {k1: v1,k2: v2,k3: 3}
